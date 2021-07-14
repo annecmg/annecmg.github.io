@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Anne Kupczok
 layout: template
 filename: research
 ---
