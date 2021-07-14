@@ -6,6 +6,10 @@ filename: research
 
 ## Research focus
 
+### Virus discovery and evolution
+
+Detection of viruses in plant and insect sequencing and estimation of their diversity and evolution.
+
 ### Evolutionary rate estimation
 
 Estimation of absolute substitution, recombination and gene turnover
@@ -25,6 +29,12 @@ present in metagenomes.
 
 ## Main ongoing projects
 
+Evolution of lambda phages (with [Carolin
+Wendling](https://usys.ethz.ch/en/people/profile.MjUyNjM3.TGlzdC82MzcsMzIwMTk3MjIy.html))
+
+Models for pangenome evolution (with [Franz
+Baumdicker](http://baumdickerlab.de/))
+
 Population genetics of *Bathymodiolus* symbionts (with [Nicole
 Dubilier](https://www.mpi-bremen.de/en/Nicole-Dubilier.html))
 
@@ -35,12 +45,6 @@ Finn Ole Petersen, project in priority programme [Much more than
 defense: The many faces and facets of
 CRISPR-Cas](https://www.uni-ulm.de/nawi/crispr-spp2141/))
 
-Models for pangenome evolution (with [Franz
-Baumdicker](http://baumdickerlab.de/))
-
 Plasmid evolution (with [Tal
 Dagan](https://www.mikrobio.uni-kiel.de/de/ag-dagan), [Hildegard
 Uecker](http://web.evolbio.mpg.de/~uecker/), Mario Santer)
-
-Evolution of lambda phages (with [Carolin
-Wendling](https://usys.ethz.ch/en/people/profile.MjUyNjM3.TGlzdC82MzcsMzIwMTk3MjIy.html))
