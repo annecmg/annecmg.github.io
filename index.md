@@ -1,5 +1,5 @@
 ---
-title: Anne Kupczok
+title: Start
 layout: template
 filename: index
 ---
