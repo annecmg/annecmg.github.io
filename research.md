@@ -4,28 +4,26 @@ layout: template
 filename: research
 ---
 
-Research focus
---------------
+# Research focus
 
-**Evolutionary rate estimation**
+## Evolutionary rate estimation
 
 Estimation of absolute substitution, recombination and gene turnover
 rates from time series data sets.
 
-**Phage pangenome evolution**
+## Phage pangenome evolution
 
 Contribution of different evolutionary processes to phage genome
 evolution.
 
-**Evolutionary metagenomics**
+## Evolutionary metagenomics
 
 Inference of microbial evolutionary processes from genetic heterogeneity
 present in metagenomes.
 
 * * * * *
 
-Main ongoing projects
----------------------
+# Main ongoing projects
 
 Population genetics of *Bathymodiolus* symbionts (with [Nicole
 Dubilier](https://www.mpi-bremen.de/en/Nicole-Dubilier.html))
