@@ -1,3 +1,9 @@
+---
+title: Anne Kupczok
+layout: template
+filename: index.md
+---
+
 **Contact:**
 
 Bioinformatics group Department of Plant Sciences Wageningen University

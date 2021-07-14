@@ -1,3 +1,9 @@
+---
+title: Research
+layout: template
+filename: research.md
+---
+
 Research focus
 --------------
 
