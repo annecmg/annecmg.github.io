@@ -1,7 +1,7 @@
 ---
 title: Anne Kupczok
 layout: template
-filename: index.md
+filename: index
 ---
 
 **Contact:**

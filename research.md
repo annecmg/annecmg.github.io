@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: template
-filename: research.md
+filename: research
 ---
 
 Research focus
