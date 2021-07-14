@@ -3,7 +3,7 @@ title: People
 layout: template
 filename: people
 ---
-**Anne Kupczok**
+## Anne Kupczok
 
 **E-mail:** anne . kupczok @ wur . nl
 
@@ -22,22 +22,21 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
 [Tweets by annecmg](https://twitter.com/annecmg?ref_src=twsrc%5Etfw)
 
-**Master students**
+# Master students
 
-***Matthijs Pon***
+## Matthijs Pon
 
-***Amanda van de Ligt***
+## Amanda van de Ligt
 
-**Associated members**
+# Associated members
 
-***Nikolaos Vakirlis***
+## Nikolaos Vakirlis
 
 Profile on [Google Scholar](https://scholar.google.com/citations?user=72rh-ZsAAAAJ).
 
 [Tweets by vakirlis](https://twitter.com/vakirlis)
 
-**Former Members**
+*Former Members**
 
-***Claudia de Buck***
-
-Master student 2021
+**Claudia de Buck**
+- Master student 2021
