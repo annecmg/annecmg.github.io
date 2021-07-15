@@ -6,13 +6,12 @@ filename: people
 ---
 ## Anne Kupczok
 
-**E-mail:** anne . kupczok @ wur . nl
+Assistant professor  
+**Contact:** anne . kupczok @ wur . nl
 
 ![Anne](KEC_small.png)
-
-> I am an assistant professor in the Bioinformatics group at Wageningen University since August 2020. I am a bioinformatician by training with a particular interest how microbes and viruses evolve and how the interaction with eukaryotic hosts impact their evolution.
->
-> In my research, I infer the diversity within microbial populations from genomes and metagenomes, where I focus on the interaction between organisms, such as phages and bacteria, and the consequences of this interaction on genome evolution. I am interested in understanding how different evolutionary processes (mutation, recombination, and horizontal gene transfer) contribute to viral and microbial evolution.
+I am an assistant professor in the Bioinformatics group at Wageningen University since August 2020. I am a bioinformatician by training with a particular interest how microbes and viruses evolve and how the interaction with eukaryotic hosts impact their evolution.  
+In my research, I infer the diversity within microbial populations from genomes and metagenomes, where I focus on the interaction between organisms, such as phages and bacteria, and the consequences of this interaction on genome evolution. I am interested in understanding how different evolutionary processes (mutation, recombination, and horizontal gene transfer) contribute to viral and microbial evolution.
 
 Complete list of publications in
 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Anne+Kupczok).
@@ -40,6 +39,8 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 # Associated members
 
 ## Nikolaos Vakirlis
+
+Postdoc at Kiel University
 
 > Evolution of novel genes in prokaryotes and viruses
 
