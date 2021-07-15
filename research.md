@@ -1,5 +1,6 @@
 ---
 title: Research
+description: Research
 layout: template
 filename: research
 ---
