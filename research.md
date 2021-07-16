@@ -34,8 +34,7 @@ Evolution of lambda phages (with [Carolin Wendling](https://usys.ethz.ch/en/peop
 
 ## Evolutionary rate estimation
 
-| ![Phage time series](phagets.png){: style="width: 100px;"} | Estimation of absolute substitution, recombination and gene turnover
-rates from time series data sets.  |
+| ![Phage time series](phagets.png){: style="width: 100px;"} | Estimation of absolute substitution, recombination and gene turnover rates from time series data sets.  |
 
 * * * * *
 
