@@ -7,10 +7,12 @@ filename: research
 
 ## Evolutionary metagenomics
 
-![Metagenome variation](mgvar.png){: style="float: left; margin-right: 1em;"}
+![Metagenome variation](mgvar.png){: style="width: 50px; float: left; margin-right: 1em;"}
 
 Inference of microbial evolutionary processes from genetic heterogeneity
 present in metagenomes.
+
+* * * * *
 
 ### Virus discovery and evolution
 
