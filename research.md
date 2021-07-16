@@ -5,7 +5,12 @@ layout: template
 filename: research
 ---
 
-## Research focus
+## Evolutionary metagenomics
+
+![Metagenome variation](mgvar.png){: style="float: left; margin-right: 1em;"}
+
+Inference of microbial evolutionary processes from genetic heterogeneity
+present in metagenomes.
 
 ### Virus discovery and evolution
 
@@ -20,11 +25,6 @@ rates from time series data sets.
 
 Contribution of different evolutionary processes to phage genome
 evolution.
-
-### Evolutionary metagenomics
-
-Inference of microbial evolutionary processes from genetic heterogeneity
-present in metagenomes.
 
 * * * * *
 
