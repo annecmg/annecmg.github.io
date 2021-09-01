@@ -19,6 +19,12 @@ Population genetics of *Bathymodiolus* symbionts (with [Nicole Dubilier](https:/
 
 Detection of viruses in plant and insect sequencing and estimation of their diversity and evolution.
 
+### Related projects
+
+Virus diversity and genome evolution in natural plant ecosystems (with [Mark Zwart](https://nioo.knaw.nl/nl/employees/mark-zwart))
+
+Virus discovery in insect genome sequencing (with [Astrid Bryon](https://www.wur.nl/en/Persons/Astrid-dr.ir.-AEE-Astrid-Bryon.htm))
+
 * * * * *
 
 ## Phage pangenome evolution
