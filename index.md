@@ -9,6 +9,10 @@ Metagenomes represent the genetic content of community members in a specific env
 
 # News
 
+## September 2021
+
+* We are looking for a PhD student in deciphering the soil microbiome in intercropping! Forward the announcement to suitable candidates and apply here: <https://www.wur.nl/en/vacancy/PhD-Deciphering-the-soil-microbiome-for-optimized-intercropping.htm> Feel free to contact me for questions!
+
 ## August 2021
 
 * We are looking for a PhD student in plant virus genomics! Forward the announcement to suitable candidates and apply here: <https://www.academictransfer.com/en/303862/phd-position-virus-diversity-and-evolution-in-natural-plant-ecosystems/> Feel free to contact me for questions!

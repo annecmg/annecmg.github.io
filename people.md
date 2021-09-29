@@ -27,13 +27,13 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
 # Master students
 
-## Matthijs Pon
-
-> Virus discovery in insect genome sequencing
-
 ## Amanda van de Ligt
 
 > Evolution of auxiliary metabolic genes in phages
+
+## Matthijs Kon
+
+> Virus discovery in insect genome sequencing
 
 * * * * *
 
@@ -52,6 +52,9 @@ Profile on [Google Scholar](https://scholar.google.com/citations?user=72rh-ZsAAA
 * * * * *
 
 # Former Members
+
+**Matthijs Pon**
+> Master student 2021
 
 **Claudia de Buck**
 > Master student 2021
