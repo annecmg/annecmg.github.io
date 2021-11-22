@@ -11,7 +11,7 @@ Metagenomes represent the genetic content of community members in a specific env
 
 ## November 2021
 
-* New preprint available: Pangenome evolution in environmentally transmitted symbionts of deep-sea mussels is governed by vertical inheritance https://www.biorxiv.org/content/10.1101/2021.11.12.468352v1
+* New preprint available: Pangenome evolution in environmentally transmitted symbionts of deep-sea mussels is governed by vertical inheritance <https://www.biorxiv.org/content/10.1101/2021.11.12.468352v1>
 
 * Jan Baijens joined as a PhD student to work on genome evolution of plant viruses. Welcome Jan!
 
