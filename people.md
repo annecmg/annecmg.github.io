@@ -25,7 +25,7 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
 * * * * *
 
-* PhD students
+# PhD students
 
 ## Jan Baijens
 
