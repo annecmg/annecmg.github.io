@@ -24,6 +24,12 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 [Tweets by annecmg](https://twitter.com/annecmg?ref_src=twsrc%5Etfw)
 
 * * * * *
+* PhD students
+## Jan Baijens
+
+> Genome evolution of plant viruses
+
+Profile at [WUR](https://www.wur.nl/en/Persons/Jan-JHL-Jan-Baijens.htm)
 
 # Master students
 
