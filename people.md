@@ -27,6 +27,12 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
 # PhD students
 
+## Joliese Teunissen
+
+> Deciphering the role of the soil microbiome in intercropping
+
+Profile at [WUR](https://www.wur.nl/nl/Personen/Joliese-JW-Joliese-Teunissen-MSc.htm)
+
 ## Jan Baijens
 
 > Genome evolution of plant viruses
@@ -45,10 +51,6 @@ co-supervision with Jing He, Energy Microbiology Center of the Chinese Academy o
 
 > Evolution of auxiliary metabolic genes in phages
 
-## Matthijs Kon
-
-> Virus discovery in insect genome sequencing
-
 * * * * *
 
 # Associated members
@@ -66,6 +68,9 @@ Profile on [Google Scholar](https://scholar.google.com/citations?user=72rh-ZsAAA
 * * * * *
 
 # Former Members
+
+**Matthijs Kon**
+> Master student 2021-2022
 
 **Matthijs Pon**
 > Master student 2021
