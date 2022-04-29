@@ -9,6 +9,12 @@ Metagenomes represent the genetic content of community members in a specific env
 
 # News
 
+## January 2022
+
+* New preprint available: Fixation dynamics of beneficial alleles in prokaryotic polyploid chromosomes and plasmids <https://www.biorxiv.org/content/10.1101/2022.01.07.475421v1>
+
+* Joliese Teunissen started her PhD co-supervised with Stefan Geisen at the WUR Nematology group. She will investigate the microbiome in intercropping. Welcome Joliese!
+
 ## November 2021
 
 * New preprint available: Pangenome evolution in environmentally transmitted symbionts of deep-sea mussels is governed by vertical inheritance <https://www.biorxiv.org/content/10.1101/2021.11.12.468352v1>
