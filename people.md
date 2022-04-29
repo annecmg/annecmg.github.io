@@ -29,6 +29,8 @@ Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
 ## Joliese Teunissen
 
+co-supervision with [Stefan Geisen](https://www.wur.nl/en/Persons/Stefan-dr.-SA-Stefan-Geisen.htm), Nematology group WUR
+
 > Deciphering the role of the soil microbiome in intercropping
 
 Profile at [WUR](https://www.wur.nl/nl/Personen/Joliese-JW-Joliese-Teunissen-MSc.htm)
