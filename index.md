@@ -32,6 +32,8 @@ Metagenomes represent the genetic content of community members in a specific env
 
 * We are looking for a PhD student in deciphering the soil microbiome in intercropping! Forward the announcement to suitable candidates and apply here: <https://www.wur.nl/en/vacancy/PhD-Deciphering-the-soil-microbiome-for-optimized-intercropping.htm> Feel free to contact me for questions!
 
+* Matthijs Kon has started his Msc thesis on insect virus discovery in sequencing data, in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm). Welcome Matthijs!
+
 * Jun Liu started his PhD project in China co-supervised by Jing He at the Energy Microbiology Center of the Chinese Academy of Agricultural Sciences. Welcome Jun!
 
 ## August 2021
