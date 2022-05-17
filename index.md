@@ -9,6 +9,13 @@ Metagenomes represent the genetic content of community members in a specific env
 
 # News
 
+## May 2022
+
+* Nikolai Matviiets started his Msc thesis on *Meta-omics analysis of fermented milk communities*, in co-supervision with [Anna Alekseeva](https://www.wur.nl/en/Persons/Anna-A-Anna-Alekseeva.htm) from the WUR Genetics group. Welcome Nikolai!
+
+## March 2022
+* Matthijs Kon has finished his Msc thesis entitled *Pipeline comparison for covert virus detection in Spodoptera exigua using high throughput sequencing data*. Congratulations Matthijs!
+
 ## January 2022
 
 * New preprint available: Fixation dynamics of beneficial alleles in prokaryotic polyploid chromosomes and plasmids <https://www.biorxiv.org/content/10.1101/2022.01.07.475421v1>
