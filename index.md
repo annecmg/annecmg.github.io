@@ -11,6 +11,8 @@ Metagenomes represent the genetic content of community members in a specific env
 
 ## May 2022
 
+* We are looking for a bioinformatics PhD student interested in plant virus evolution: https://www.wur.nl/en/vacancy/PhD-position-Virus-diversity-and-evolution-in-natural-plant-ecosystems-2.htm
+
 * Nikolai Matviiets started his Msc thesis on *Meta-omics analysis of fermented milk communities*, in co-supervision with [Anna Alekseeva](https://www.wur.nl/en/Persons/Anna-A-Anna-Alekseeva.htm) from the WUR Genetics group. Welcome Nikolai!
 
 ## March 2022
