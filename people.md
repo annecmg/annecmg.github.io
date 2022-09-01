@@ -45,29 +45,30 @@ co-supervision with Jing He, Energy Microbiology Center of the Chinese Academy o
 
 ## Nikolai Matviiets
 
+co-supervision with [Anna Alekseeva, Genetics](https://www.wur.nl/nl/Personen/Anna-A-Anna-Alekseeva.htm)
+
 > Meta-omics analysis of fermented milk communities
 
-## Amanda van de Ligt
+## Devin van Valkengoed
 
-> Evolution of auxiliary metabolic genes in phages
+co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm)
 
-* * * * *
+> Assessing the diversity and evolution of iflavirus genomes in lepidopteran species using RNASeq data
 
-# Associated members
+## Dimitris Karapliafis
 
-## Nikolaos Vakirlis
-
-Postdoc at Kiel University
-
-> Evolution of novel genes in prokaryotes and viruses
-
-Profile on [Google Scholar](https://scholar.google.com/citations?user=72rh-ZsAAAAJ).
-
-[Tweets by vakirlis](https://twitter.com/vakirlis)
+> Intra-host genetic diversity of plant viruses using transcriptomics datasets
 
 * * * * *
 
 # Former Members
+
+**Nikolaos Vakirlis**
+> Associated postdoc 2021-2022
+> Now at [BSRC Alexander Fleming](https://www.fleming.gr/)
+
+**Amanda van de Ligt**
+> Master student 2021-2022
 
 **Jan Baijens**
 > Research assistant 2021-2022
