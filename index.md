@@ -9,9 +9,17 @@ Metagenomes represent the genetic content of community members in a specific env
 
 # News
 
-## May 2022
+## August 2022
 
-* We are looking for a bioinformatics PhD student interested in plant virus evolution: https://www.wur.nl/en/vacancy/PhD-position-Virus-diversity-and-evolution-in-natural-plant-ecosystems-2.htm
+* Two new thesis students are starting: Devin van Valkengoed and Dimitris Karapliafis. Both will work on the virus evolution, welcome!
+* Amanda van de Ligt has successfully defended her Msc thesis, congratulation!
+* New papper published :) Fixation dynamics of beneficial alleles in prokaryotic polyploid chromosomes and plasmids https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac121/6663764
+
+## June 2022
+
+* New paper published :) Pangenome Evolution in Environmentally Transmitted Symbionts of Deep-Sea Mussels Is Governed by Vertical Inheritance https://academic.oup.com/gbe/article/14/7/evac098/6613374
+
+## May 2022
 
 * Nikolai Matviiets started his Msc thesis on *Meta-omics analysis of fermented milk communities*, in co-supervision with [Anna Alekseeva](https://www.wur.nl/en/Persons/Anna-A-Anna-Alekseeva.htm) from the WUR Genetics group. Welcome Nikolai!
 
