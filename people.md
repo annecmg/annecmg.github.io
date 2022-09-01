@@ -65,6 +65,7 @@ co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astr
 
 **Nikolaos Vakirlis**
 > Associated postdoc 2021-2022
+
 > Now at [BSRC Alexander Fleming](https://www.fleming.gr/)
 
 **Amanda van de Ligt**
