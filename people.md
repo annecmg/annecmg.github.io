@@ -59,6 +59,22 @@ co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astr
 
 > Intra-host genetic diversity of plant viruses using transcriptomics datasets
 
+## Joran Schoorlemmer
+
+co-supervision with [Aalt-Jan van Dijk](https://www.wur.nl/nl/personen/aalt-jan-dr.-adj-aalt-jan-van-dijk.htm)
+
+> Characterizing protein surfaces of phages
+
+## Jori de Leuw
+
+co-supervision with Nikolaos Vakirlis, BSRC Alexander Fleming
+
+> Evolutionary origins of microbial orphan genes
+
+## Elma van Wieren
+
+> Genomic context of Auxiliary metabolic genes in soil phages
+
 * * * * *
 
 # Former Members
