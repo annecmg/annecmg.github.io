@@ -12,17 +12,17 @@ Metagenomes represent the genetic content of community members in a specific env
 ## September 2022
 
 * Three new thesis students are starting: Joran Schoorlemmer, Jori de Leuw, and Elma van Wieren. Welcome!
-* New paper published in collaboration with the Virology Goup on Arabidopsis latent virus 1: https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18466 
+* New paper published in collaboration with the Virology Goup on Arabidopsis latent virus 1: <https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18466>
 
 ## August 2022
 
 * Two new thesis students are starting: Devin van Valkengoed and Dimitris Karapliafis. Both will work on the virus evolution, welcome!
 * Amanda van de Ligt has successfully defended her Msc thesis, congratulation!
-* New papper published :) Fixation dynamics of beneficial alleles in prokaryotic polyploid chromosomes and plasmids https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac121/6663764
+* New papper published :) Fixation dynamics of beneficial alleles in prokaryotic polyploid chromosomes and plasmids: <https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac121/6663764>
 
 ## June 2022
 
-* New paper published :) Pangenome Evolution in Environmentally Transmitted Symbionts of Deep-Sea Mussels Is Governed by Vertical Inheritance https://academic.oup.com/gbe/article/14/7/evac098/6613374
+* New paper published :) Pangenome Evolution in Environmentally Transmitted Symbionts of Deep-Sea Mussels Is Governed by Vertical Inheritance: <https://academic.oup.com/gbe/article/14/7/evac098/6613374>
 
 ## May 2022
 
