@@ -21,7 +21,7 @@ Profile on [Google Scholar](https://scholar.google.de/citations?user=XEdO4FwAAAA
 
 Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
-[Tweets by annecmg](https://twitter.com/annecmg?ref_src=twsrc%5Etfw)
+[@annecmg@scholar.social](https://scholar.social/web/@annecmg)
 
 * * * * *
 
