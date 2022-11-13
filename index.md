@@ -70,3 +70,5 @@ Anne Kupczok
 Department of Plant Sciences  
 [Wageningen University & Research](https://www.wur.nl/en.htm)  
 Wageningen, The Netherlands
+
+<a rel="me" href="https://scholar.social/web/@annecmg">@annecmg@scholar.social</a>
