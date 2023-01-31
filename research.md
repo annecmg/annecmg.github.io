@@ -9,10 +9,6 @@ filename: research
 
 Inference of microbial evolutionary processes from genetic heterogeneity present in metagenomes. 
 
-### Related projects
-
-Population genetics of *Bathymodiolus* symbionts (with [Nicole Dubilier](https://www.mpi-bremen.de/en/Nicole-Dubilier.html))
-
 * * * * *
 
 ## Virus discovery and evolution
@@ -32,8 +28,6 @@ Virus discovery in insect genome sequencing (with [Astrid Bryon](https://www.wur
 Contribution of different evolutionary processes to phage genome evolution.
 
 ### Related projects
-
-Evolution of lambda phages (with [Carolin Wendling](https://usys.ethz.ch/en/people/profile.MjUyNjM3.TGlzdC82MzcsMzIwMTk3MjIy.html))
 
 Evolution of auxiliary metabolic genes in phages and in their bacterial homologs
 
