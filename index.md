@@ -9,6 +9,15 @@ Metagenomes represent the genetic content of community members in a specific env
 
 # News
 
+## January 2023
+
+* Another Msc thesis student started: Gian Passania will work on integrated viral elements
+* Dimitris Karapliafis finished his research practice and is ready to start his PhD in the group in February, huge congratulations! Looking forward to explore the evolution of plant viruses!
+
+## November 2022
+
+* New paper on phage recombination: Co-transfer of functionally interdependent genes contributes to genome mosaicism in lambdoid phages <https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000915>
+
 ## September 2022
 
 * Three new thesis students are starting: Joran Schoorlemmer, Jori de Leuw, and Elma van Wieren. Welcome!
