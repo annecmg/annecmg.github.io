@@ -5,9 +5,17 @@ layout: template
 filename: index
 ---
 
-Metagenomes represent the genetic content of community members in a specific environment and contain unprecedented information on the genetic variation that exists within all the community members. Our research focus is evolutionary (meta-)genomics, that is, the inference of population genetic processes in microorganisms from genomic and metagenomic data.
+Metagenomes represent the genetic content of all community members in a specific environment and contain unprecedented information on the genetic variation that exists within all the community members. Our research focuses on viral and microbial evolution. To this end, we develop and apply approaches (i) to reconstruct viruses from metagenomic and metatranscriptomic data and (ii) to infer microbial population genetic processes from genomic and metagenomic data.
 
 # News
+
+## March 2023
+
+* Devin van Valkengoed sucessfully finished his Msc thesis in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm) from the WUR Virology group. Congratulations! We are happy that he stays around a bit longer to wrap up the project. 
+
+## February 2023
+
+* Nikolai Matviiets sucessfully finished his Msc thesis in co-supervision with [Anna Alekseeva](https://www.wur.nl/en/Persons/Anna-A-Anna-Alekseeva.htm) from the WUR Genetics group. Congratulations!
 
 ## January 2023
 
