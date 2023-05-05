@@ -21,7 +21,7 @@ Profile on [Google Scholar](https://scholar.google.de/citations?user=XEdO4FwAAAA
 
 Profile on [ORCID](https://orcid.org/0000-0001-5237-1899).
 
-[@annecmg@scholar.social](https://scholar.social/web/@annecmg)
+Mastodon: [@annecmg@scholar.social](https://scholar.social/web/@annecmg) and [own toots](https://tootfinder.ch/index.php?query=%40annecmg%40scholar.social&submitnew=Date+%E2%86%93)
 
 * * * * *
 
