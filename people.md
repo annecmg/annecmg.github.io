@@ -45,13 +45,7 @@ Profile at [WUR](https://www.wur.nl/nl/Personen/Joliese-JW-Joliese-Teunissen-MSc
 
 > Evolution of plant viruses in wild plants (in collaboration with [Mark Zwart](https://nioo.knaw.nl/nl/employees/mark-zwart))
 
-# Master students
-
-## Nikolai Matviiets
-
-co-supervision with [Anna Alekseeva, Genetics](https://www.wur.nl/nl/Personen/Anna-A-Anna-Alekseeva.htm)
-
-> Meta-omics analysis of fermented milk communities
+# Research assistants
 
 ## Devin van Valkengoed
 
@@ -59,21 +53,7 @@ co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astr
 
 > Assessing the diversity and evolution of iflavirus genomes in lepidopteran species using RNASeq data
 
-## Joran Schoorlemmer
-
-co-supervision with [Aalt-Jan van Dijk](https://www.wur.nl/nl/personen/aalt-jan-dr.-adj-aalt-jan-van-dijk.htm)
-
-> Characterizing protein surfaces of phages
-
-## Jori de Leuw
-
-co-supervision with Nikolaos Vakirlis, BSRC Alexander Fleming
-
-> Evolutionary origins of microbial orphan genes
-
-## Elma van Wieren
-
-> Genomic context of Auxiliary metabolic genes in soil phages
+# Master students
 
 ## Gian Passania
 
@@ -85,22 +65,34 @@ co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astr
 
 # Former Members
 
+**Joran Schoorlemmer**
+> Msc thesis student 2022-2023
+
+**Elma van Wieren**
+> Msc thesis student 2022-2023
+
+**Jori de Leuw**
+> Msc thesis student 2022-2023
+
+**Nikolai Matviiets**
+> Msc thesis student 2022-2023
+
 **Nikolaos Vakirlis**
 > Associated postdoc 2021-2022
 
 > Now at [BSRC Alexander Fleming](https://www.fleming.gr/)
 
 **Amanda van de Ligt**
-> Master student 2021-2022
+> Msc thesis student 2021-2022
 
 **Jan Baijens**
 > Research assistant 2021-2022
 
 **Matthijs Kon**
-> Master student 2021-2022
+> Msc thesis student 2021-2022
 
 **Matthijs Pon**
-> Master student 2021
+> Msc thesis student 2021
 
 **Claudia de Buck**
-> Master student 2021
+> Msc thesis student 2021
