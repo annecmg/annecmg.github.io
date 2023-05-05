@@ -9,8 +9,18 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## May 2023
+
+* The conference season is starting. You can find us at [BioSB](https://www.aanmelder.nl/biosb2023), [NLSEB](https://www.nlseb.nl/nlseb2023-meetings), and [ViBiom](https://evbc.uni-jena.de/events/vibiom2023/)
+
+## April 2023
+
+* Our short perspective on pangenome evolution is accepted in [GBE](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evad067/7137407)
+* Joran Schorlemmer successfully finished his Msc thesis on the surface proteins of phages (in co-supervision with [Aalt-Jan van Dijk](https://www.wur.nl/nl/personen/aalt-jan-dr.-adj-aalt-jan-van-dijk.htm)). Congratulations!
+
 ## March 2023
 
+* Elma van Wieren successfully finished her Msc thesis on the evolution of auxiliary metabolic genes. Contratulations!
 * Devin van Valkengoed sucessfully finished his Msc thesis in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm) from the WUR Virology group. Congratulations! We are happy that he stays around a bit longer to wrap up the project. 
 
 ## February 2023
