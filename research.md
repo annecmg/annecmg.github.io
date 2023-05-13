@@ -15,6 +15,8 @@ Inference of microbial evolutionary processes from genetic heterogeneity present
 
 Detection of viruses in plant and insect sequencing and estimation of their diversity and evolution.
 
+![Viruses <](images/Viruses.png)
+
 ### Related projects
 
 Virus diversity and genome evolution in natural plant ecosystems (with [Mark Zwart](https://nioo.knaw.nl/nl/employees/mark-zwart))
