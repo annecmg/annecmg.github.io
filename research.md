@@ -39,6 +39,8 @@ Evolutionary origin of lineage-specific genes in prokaryotes (with [Nikolaos Vak
 
 Evolution of auxiliary metabolic genes in phages and in their bacterial homologs
 
+* * * * *
+
 ## Microbial communities
 
 ![Communities <](images/Communities.png)
@@ -50,6 +52,8 @@ Synthetic microbial communities for mitigating ammonia and greenhouse gases gene
 Deciphering the role of the soil microbiome in intercropping (PhD student [Joliese Teunissen](https://www.wur.nl/nl/Personen/Joliese-JW-Joliese-Teunissen-MSc.htm), with [Stefan Geisen](https://www.wur.nl/en/Persons/Stefan-dr.-SA-Stefan-Geisen.htm))
 
 Viral communities in fermented milk products (with [Sijmen Schoustra](https://www.wur.nl/en/Persons/Sijmen-dr.ir.-SE-Sijmen-Schoustra.htm) and [Anna Alekseeva](https://www.wur.nl/nl/Personen/Anna-A-Anna-Alekseeva.htm))
+
+* * * * *
 
 ## Additional ongoing projects
 
