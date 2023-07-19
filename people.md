@@ -55,15 +55,18 @@ co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astr
 
 # Master students
 
-## Gian Passania
+## Laurens Klinkien
 
-co-supervision with [Astrid Bryon, Virology](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm)
+co-supervision with [Aalt-Jan van Dijk](https://www.wur.nl/nl/personen/aalt-jan-dr.-adj-aalt-jan-van-dijk.htm)
 
-> Detecting endogenous viral elements in Spodoptera genome data
+> Using protein structures to investigate orphan proteins
 
 * * * * *
 
 # Former Members
+
+**Gian Passania**
+> Msc thesis student 2023
 
 **Joran Schoorlemmer**
 > Msc thesis student 2022-2023
