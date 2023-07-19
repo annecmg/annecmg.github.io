@@ -9,8 +9,14 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## July 2023
+
+* We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-researcher-in-bioinformatics-investigating-protein-evolution-using-machine-learning.htm) to join our team - get in touch if you are a bioinformatician who wants to apply state-of-the-art machine learning methods on gene sequences and protein structures to analyze evolutionary patterns
+* New [preprint](https://www.biorxiv.org/content/10.1101/2023.07.17.549306v1) is out - Large-scale investigation of orphan genes in the human gut microbiome elucidates their evolutionary origins
+
 ## May 2023
 
+* A new Msc thesis student started - Laurens Klinkien will work on using protein structures to investigate orphan proteins (in co-supervision with [Aalt-Jan van Dijk](https://www.wur.nl/nl/personen/aalt-jan-dr.-adj-aalt-jan-van-dijk.htm))
 * The conference season is starting. You can find us at [BioSB](https://www.aanmelder.nl/biosb2023), [NLSEB](https://www.nlseb.nl/nlseb2023-meetings), and [ViBiom](https://evbc.uni-jena.de/events/vibiom2023/)
 
 ## April 2023
