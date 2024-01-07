@@ -9,8 +9,22 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## December 2023
+
+* Laurens Klinkien successfully defended his Msc thesis on protein structure similarities of orphan genes - right before the Christmas party!
+* [Jun Liu](https://www.wur.nl/cn/person/jun-j-jun-liu.htm) arrived at WUR. After finishing his experiments at [CAAS](https://biogas.caas.cn/en/aboutbioma/introduction/index.htm), he will now focus on bioinformatics analyses. Welcome in person, Jun!
+
+## November
+
+* Another Msc student started: Inge van Vugt will work on insect microbiomes, with a particular focus to detect RNA viruses, in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm). Welcome Inge!
+   
+## September
+
+* Felipe Perez Martinez started his Msc thesis on metatranscriptomics of orphan genes in the human gut. Welcome Felipe!  
+
 ## July 2023
 
+* Gian Passania successfully finished his Msc thesis on the detection of endogenous viral elements in Spodoptera species!
 * We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-researcher-in-bioinformatics-investigating-protein-evolution-using-machine-learning.htm) to join our team - get in touch if you are a bioinformatician who wants to apply state-of-the-art machine learning methods on gene sequences and protein structures to analyze evolutionary patterns
 * New [preprint](https://www.biorxiv.org/content/10.1101/2023.07.17.549306v1) is out - Large-scale investigation of orphan genes in the human gut microbiome elucidates their evolutionary origins
 
@@ -49,7 +63,7 @@ Metagenomes represent the genetic content of all community members in a specific
 
 ## August 2022
 
-* Two new thesis students are starting: Devin van Valkengoed and Dimitris Karapliafis. Both will work on the virus evolution, welcome!
+* Two new thesis students are starting: Devin van Valkengoed and Dimitris Karapliafis. Both will work on  virus evolution, welcome!
 * Amanda van de Ligt has successfully defended her Msc thesis, congratulation!
 * New papper published :) Fixation dynamics of beneficial alleles in prokaryotic polyploid chromosomes and plasmids: <https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyac121/6663764>
 
