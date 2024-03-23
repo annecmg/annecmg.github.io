@@ -9,6 +9,10 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## January 2024
+
+* Chen Chen started her PhD in co-supervision with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm) on deep learning approaches for evolutionary origins of species-specific prokaryotic genes. Welcome Chen!
+
 ## December 2023
 
 * Laurens Klinkien successfully defended his Msc thesis on protein structure similarities of orphan genes - right before the Christmas party!
