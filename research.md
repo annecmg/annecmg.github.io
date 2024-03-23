@@ -35,7 +35,7 @@ Contribution of different evolutionary processes that shape pangenomes of bacter
 
 Models for pangenome evolution (with [Franz Baumdicker](http://baumdickerlab.de/))
 
-Evolutionary origin of lineage-specific genes in prokaryotes (with [Nikolaos Vakirlis](https://www.linkedin.com/in/nikolaos-vakirlis-97712310b/))
+Evolutionary origins of lineage-specific genes in prokaryotes (PhD student Chen Chen, collaborations with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm) and with [Nikolaos Vakirlis](https://www.linkedin.com/in/nikolaos-vakirlis-97712310b/))
 
 Evolution of auxiliary metabolic genes in phages and in their bacterial homologs
 
