@@ -49,6 +49,10 @@ Profile at [WUR](https://www.wur.nl/nl/Personen/Joliese-JW-Joliese-Teunissen-MSc
 
 Profile at [WUR](https://www.wur.nl/en/persons/dimitris-d-dimitris-karapliafis.htm)
 
+## Chen Chen
+
+> Deep learning approaches for evolutionary origins of species-specific prokaryotic genes (in collaboration with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm)
+
 # Master students
 
 ## Felipe Perez Martinez
