@@ -9,6 +9,11 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## May 2024
+
+* We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-position-in-insect-virome-analysis.htm): join us if you want to work on insect virome analysis, togeter with me and [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm) from the [Laboratory of Virology](https://wur.eu/VIR)
+* A new [preprint](https://www.biorxiv.org/content/10.1101/2024.04.29.591652v1) is out - Goldfinder: Unraveling Networks of Gene Co-occurrence and Avoidance in Bacterial Pangenomes
+
 ## January 2024
 
 * Chen Chen started her PhD in co-supervision with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm) on deep learning approaches for evolutionary origins of species-specific prokaryotic genes. Welcome Chen!
@@ -18,11 +23,11 @@ Metagenomes represent the genetic content of all community members in a specific
 * Laurens Klinkien successfully defended his Msc thesis on protein structure similarities of orphan genes - right before the Christmas party!
 * [Jun Liu](https://www.wur.nl/cn/person/jun-j-jun-liu.htm) arrived at WUR. After finishing his experiments at [CAAS](https://biogas.caas.cn/en/aboutbioma/introduction/index.htm), he will now focus on bioinformatics analyses. Welcome in person, Jun!
 
-## November
+## November 2023
 
 * Another Msc student started: Inge van Vugt will work on insect microbiomes, with a particular focus to detect RNA viruses, in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm). Welcome Inge!
    
-## September
+## September 2023
 
 * Felipe Perez Martinez started his Msc thesis on metatranscriptomics of orphan genes in the human gut. Welcome Felipe!  
 
