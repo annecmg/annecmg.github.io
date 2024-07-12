@@ -19,6 +19,7 @@ Metagenomes represent the genetic content of all community members in a specific
 
 * We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-position-in-insect-virome-analysis.htm): join us if you want to work on insect virome analysis, togeter with me and [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm) from the [Laboratory of Virology](https://wur.eu/VIR)
 * A new [preprint](https://www.biorxiv.org/content/10.1101/2024.04.29.591652v1) is out - Goldfinder: Unraveling Networks of Gene Co-occurrence and Avoidance in Bacterial Pangenomes
+* Inge van Vugt successfully defended her Msc thesis, congratulations!
 
 ## April 2024
 
