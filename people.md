@@ -59,15 +59,12 @@ Profile at [WUR](https://www.wur.nl/en/persons/dimitris-d-dimitris-karapliafis.h
 
 > Metatranscriptomics of orphan genes in the human gut
 
-## Inge van Vugt
-
-co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-dr.ir.-aee-astrid-bryon.htm)
-
-> Metatranscriptomics analysis of insects to explore interactions between viruses and bacteria
-
 * * * * *
 
 # Former Members
+
+**Inge van Vugt**
+> Msc thesis student 2023-2024
 
 **Laurens Klinkien**
 > Msc thesis student 2023
