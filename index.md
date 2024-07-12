@@ -9,10 +9,20 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## July 2024
+
+* We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-position-in-spatiotemporal-diversity-of-phages.htm): In this project, you will combine bioinformatics and modelling to untangle the drivers of phage diversity across space and time. Co-supervised by [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.htm) from the [Laboratory of Genetics](https://wur.eu/GEN)
+* New paper published: [Large-scale investigation of species-specific orphan genes in the human gut microbiome elucidates their evolutionary origins](https://genome.cshlp.org/content/early/2024/07/05/gr.278977.124) If you do not have access, contact me for the pdf or look at the latest [biorxiv version](https://www.biorxiv.org/content/10.1101/2023.07.17.549306v3).
+* Join us for the EMBO lecture course on [Evolutionary and Comparative Genomics](https://meetings.embo.org/event/24-genomics), abstract deadline: 31 July 2024
+
 ## May 2024
 
 * We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-position-in-insect-virome-analysis.htm): join us if you want to work on insect virome analysis, togeter with me and [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm) from the [Laboratory of Virology](https://wur.eu/VIR)
 * A new [preprint](https://www.biorxiv.org/content/10.1101/2024.04.29.591652v1) is out - Goldfinder: Unraveling Networks of Gene Co-occurrence and Avoidance in Bacterial Pangenomes
+
+## April 2024
+
+* The consensus statement from the RdRp summit is published: [Consensus statement from the first RdRp Summit: advancing RNA virus discovery at scale across communities](https://www.frontiersin.org/journals/virology/articles/10.3389/fviro.2024.1371958/full)
 
 ## January 2024
 
