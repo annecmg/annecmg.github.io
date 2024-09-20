@@ -9,6 +9,11 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## September 2024
+
+* Laura Patiño Medina started as a PhD student - in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm), she will work on microbiome-virome interactions in whiteflies. Welcome Laura!
+* A new Msc student started: Liz Villabona Arenas will work on featurization of plant virus genomes, in co-supervision with [Dimitris Karapliafis](https://www.wur.nl/en/persons/dimitris-karapliafis.htm). Welcome Liz!
+
 ## July 2024
 
 * We are looking for a [PhD student](https://www.wur.nl/en/vacancy/phd-position-in-spatiotemporal-diversity-of-phages.htm): In this project, you will combine bioinformatics and modelling to untangle the drivers of phage diversity across space and time. Co-supervised by [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.htm) from the [Laboratory of Genetics](https://wur.eu/GEN)
