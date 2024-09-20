@@ -51,13 +51,25 @@ Profile at [WUR](https://www.wur.nl/en/persons/dimitris-d-dimitris-karapliafis.h
 
 ## Chen Chen
 
-> Deep learning approaches for evolutionary origins of species-specific prokaryotic genes (in collaboration with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm)
+co-supervision with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm)
+
+> Deep learning approaches for evolutionary origins of species-specific prokaryotic genes 
+
+## Laura Patiño Medina
+
+co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-bryon.htm)), Laboratory of Virology WUR
+
+> Microbiome-virome interactions in whiteflies 
 
 # Master students
 
 ## Felipe Perez Martinez
 
 > Metatranscriptomics of orphan genes in the human gut
+
+## Liz Villabona Arenas
+
+> Featurization of plant virus genomes
 
 * * * * *
 
