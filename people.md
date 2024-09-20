@@ -57,7 +57,7 @@ co-supervision with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridd
 
 ## Laura Patiño Medina
 
-co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-bryon.htm)), Laboratory of Virology WUR
+co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-bryon.htm), Laboratory of Virology WUR
 
 > Microbiome-virome interactions in whiteflies 
 
