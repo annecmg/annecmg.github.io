@@ -9,6 +9,10 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## November 2024
+
+* Thomas de Bruijn started as a PhD student - in co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.htm) from the [Laboratory of Genetics](https://wur.eu/GEN), he will work on modelling diversity in bacteriophages. Welcome Thomas!
+
 ## September 2024
 
 * Laura Patiño Medina started as a PhD student - in co-supervision with [Astrid Bryon](https://www.wur.nl/nl/Personen/Astrid-dr.ir.-AEE-Astrid-Bryon.htm), she will work on microbiome-virome interactions in whiteflies. Welcome Laura!
