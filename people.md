@@ -59,13 +59,15 @@ co-supervision with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridd
 
 co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-bryon.htm), Laboratory of Virology WUR
 
-> Microbiome-virome interactions in whiteflies 
+> Microbiome-virome interactions in whiteflies
+
+## Thomas de Bruijn
+
+co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.htm), Laboratory of Genetics WUR
+
+> Modeling diversity in bacteriophages
 
 # Master students
-
-## Felipe Perez Martinez
-
-> Metatranscriptomics of orphan genes in the human gut
 
 ## Liz Villabona Arenas
 
@@ -74,6 +76,9 @@ co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-bryon.h
 * * * * *
 
 # Former Members
+
+**Felipe Perez Martinez**
+> Msc thesis student 2023-2024
 
 **Inge van Vugt**
 > Msc thesis student 2023-2024
