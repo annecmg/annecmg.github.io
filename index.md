@@ -9,6 +9,10 @@ Metagenomes represent the genetic content of all community members in a specific
 
 # News
 
+## February 2025
+
+* Emma Nabuurs started as a BSc thesis student, she will integrate genomic location into [Goldfinder](https://github.com/fbaumdicker/goldfinder), a tool to estimate gene co-occurrence in microbial pangenomes 
+
 ## November 2024
 
 * Thomas de Bruijn started as a PhD student - in co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.htm) from the [Laboratory of Genetics](https://wur.eu/GEN), he will work on modelling diversity in bacteriophages. Welcome Thomas!
