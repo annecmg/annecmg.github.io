@@ -73,6 +73,12 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 
 > Featurization of plant virus genomes
 
+# Bachelor students
+
+## Emma Nabuurs
+
+> Gene co-occurrence and genomic location
+
 * * * * *
 
 # Former Members
