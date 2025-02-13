@@ -5,7 +5,7 @@ layout: template
 filename: index
 ---
 
-Metagenomes represent the genetic content of all community members in a specific environment and contain unprecedented information on the genetic variation that exists within all the community members. Our research focuses on viral and microbial evolution. To this end, we develop and apply approaches (i) to reconstruct viruses from metagenomic and metatranscriptomic data and (ii) to infer microbial population genetic processes from genomic and metagenomic data.
+Viruses are central players in microbial communities and viruses also have a major effect on communities of eukaryotic organisms. This interaction has important consequences for the evolution of cellular organisms. We now have the technology to measure the genetic content of communities at high resolution and we can infer which organisms with which detailed genome organization they contain, including all community members - eukaryotes, prokaryotes, and viruses. In my research group, we develop methods for the reconstruction of genomes and their evolutionary histories and gain biological insights by analyzing data with these methods. Specifically, we develop and apply approaches (i) to reconstruct viruses from metagenomic and metatranscriptomic data and (ii) to infer microbial population genetic processes from genomic and metagenomic data.
 
 # News
 
