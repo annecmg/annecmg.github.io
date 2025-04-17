@@ -67,12 +67,6 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 
 > Modeling diversity in bacteriophages
 
-# Master students
-
-## Liz Villabona Arenas
-
-> Featurization of plant virus genomes
-
 # Bachelor students
 
 ## Emma Nabuurs
@@ -82,6 +76,9 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 * * * * *
 
 # Former Members
+
+**Liz Villabona Arenas**
+> Msc thesis student 2024-2025
 
 **Felipe Perez Martinez**
 > Msc thesis student 2023-2024
