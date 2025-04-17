@@ -13,7 +13,7 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 * Emma Nabuurs started as a BSc thesis student, she will integrate genomic location into [Goldfinder](https://github.com/fbaumdicker/goldfinder), a tool to estimate gene co-occurrence in microbial pangenomes
 
-## January 2024
+## January 2025
 
 * New preprint: [Transcriptome mining reveals diversity and evolution of iflaviruses in Lepidoptera](https://www.biorxiv.org/content/10.1101/2025.01.22.634245v2)
 
