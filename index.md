@@ -9,6 +9,15 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 # News
 
+## June 2025
+
+* Tomer Sardjoe started his Msc thesis on phylogenetic and machine learning approaches for the estimation of gene co-occurrences in bacterial pangenomes. Welcome!
+* New preprint: [Machine learning can identify orphans that have diverged into the ″twilight zone″ of sequence similarity](https://www.biorxiv.org/content/10.1101/2025.06.06.658213v1)
+
+## May 2025
+
+* New paper published from Lakhan Pardeshi and colleagues at WUR: [Pangenomics to understand prophage dynamics in the Pectobacterium genus and the radiating lineages of Pectobacterium brasiliense](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001392)
+
 ## February 2025
 
 * Emma Nabuurs started as a BSc thesis student, she will integrate genomic location into [Goldfinder](https://github.com/fbaumdicker/goldfinder), a tool to estimate gene co-occurrence in microbial pangenomes
