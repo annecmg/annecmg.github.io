@@ -67,6 +67,12 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 
 > Modeling diversity in bacteriophages
 
+# Master students
+
+## Tomer Sardjoe
+
+> Phylogenetic and machine learning approaches for the estimation of gene co-occurrences in bacterial pangenomes
+
 # Bachelor students
 
 ## Emma Nabuurs
