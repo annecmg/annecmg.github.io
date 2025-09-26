@@ -9,6 +9,10 @@ filename: research
 
 Inference of microbial evolutionary processes from genetic heterogeneity present in metagenomes. 
 
+### Related projects
+
+Microdiversity in soil bacteriophages (PhD student [Thomas de Bruijn](https://www.wur.nl/nl/personen/thomas-de-bruijn-1.htm), with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.htm)).
+
 * * * * *
 
 ## Virus discovery and evolution
@@ -21,7 +25,7 @@ Detection of viruses in plant and insect sequencing and estimation of their dive
 
 Virus diversity and genome evolution in natural plant ecosystems (PhD student [Dimitris Karapliafis](https://www.wur.nl/en/persons/dimitris-d-dimitris-karapliafis.htm), with [Mark Zwart](https://nioo.knaw.nl/nl/employees/mark-zwart))
 
-Virus discovery in insect genome sequencing (with [Astrid Bryon](https://www.wur.nl/en/Persons/Astrid-dr.ir.-AEE-Astrid-Bryon.htm))
+Virus discovery in insect genome sequencing (PhD student [Laura Patiño Medina](https://www.wur.nl/en/persons/laura-patino-medina-1.htm), with [Astrid Bryon](https://www.wur.nl/en/Persons/Astrid-dr.ir.-AEE-Astrid-Bryon.htm))
 
 * * * * *
 
@@ -35,9 +39,9 @@ Contribution of different evolutionary processes that shape pangenomes of bacter
 
 Models for pangenome evolution (with [Franz Baumdicker](http://baumdickerlab.de/))
 
-Evolutionary origins of lineage-specific genes in prokaryotes (PhD student Chen Chen, collaborations with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm) and with [Nikolaos Vakirlis](https://www.linkedin.com/in/nikolaos-vakirlis-97712310b/))
+Evolutionary origins of lineage-specific genes in prokaryotes (PhD student [Chen Chen](https://www.wur.nl/en/persons/chen-chen-2.htm), collaborations with [Nikolaos Vakirlis](https://www.linkedin.com/in/nikolaos-vakirlis-97712310b/), [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm), and [Rens Holmer](https://www.wur.nl/nl/personen/rens-holmer.htm)).
 
-Evolution of auxiliary metabolic genes in phages and in their bacterial homologs
+Evolution of auxiliary metabolic genes in phages and in their bacterial homologs (visiting PhD student Nina Bäuerle, in collaboration with [Nicole Frankenberg-Dinkel](https://bio.rptu.de/fgs/microbiology/team)). 
 
 * * * * *
 
