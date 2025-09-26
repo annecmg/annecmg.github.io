@@ -9,6 +9,12 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 # News
 
+## September 2025
+
+* New Msc thesis students are starting!
+** Mate Zoltai will analyze sequencing data to study small RNA-based communication in virus-vector-plant interactions. This is a collaboration with with [Emilyn Matsumura](https://www.wur.nl/en/persons/emilyn-matsumura.htm), Laboratory of Virology WUR
+** Vural Yurt will study prophage evolution in the Salmonella pangenome
+
 ## June 2025
 
 * Tomer Sardjoe started his Msc thesis on phylogenetic and machine learning approaches for the estimation of gene co-occurrences in bacterial pangenomes. Welcome!
