@@ -11,9 +11,10 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 ## September 2025
 
-* New Msc thesis students are starting!
- * Mate Zoltai will analyze sequencing data to study small RNA-based communication in virus-vector-plant interactions. This is a collaboration with with [Emilyn Matsumura](https://www.wur.nl/en/persons/emilyn-matsumura.htm), Laboratory of Virology WUR
- * Vural Yurt will study prophage evolution in the Salmonella pangenome
+* This month, Nina Bäuerle is visiting the group to analyze public sequencing data for auxiliary metabolic genes from phages (in collaboration with [Nicole Frankenberg-Dinkel](https://bio.rptu.de/fgs/microbiology/team)
+* New Msc thesis students are starting:
+* Mate Zoltai will analyze sequencing data to study small RNA-based communication in virus-vector-plant interactions. This is a collaboration with with [Emilyn Matsumura](https://www.wur.nl/en/persons/emilyn-matsumura.htm), Laboratory of Virology WUR
+* Vural Yurt will study prophage evolution in the Salmonella pangenome
 
 ## June 2025
 
