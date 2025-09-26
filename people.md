@@ -73,6 +73,16 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 
 > Phylogenetic and machine learning approaches for the estimation of gene co-occurrences in bacterial pangenomes
 
+## Mate Zoltai
+
+co-supervision with [Emilyn Matsumura](https://www.wur.nl/en/persons/emilyn-matsumura.htm), Laboratory of Virology WUR
+
+> Small RNA-based communication in virus-vector-plant interactions
+
+## Vural Yurt
+
+> Prophage evolution in the Salmonella pangenome
+
 # Bachelor students
 
 ## Emma Nabuurs
