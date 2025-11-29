@@ -9,6 +9,9 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 # News
 
+## November 2025
+* Congratulations to Dr. Jun Liu, the first graduated PhD student from my group at WUR!
+
 ## September 2025
 
 * This month, Nina Bäuerle is visiting the group to analyze public sequencing data for auxiliary metabolic genes from phages (in collaboration with [Nicole Frankenberg-Dinkel](https://bio.rptu.de/fgs/microbiology/team)
