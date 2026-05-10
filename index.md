@@ -9,6 +9,24 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 # News
 
+## April 2026
+* Mate Zoltai successfully defended his Msc thesis, congratulations!
+
+## March 2026
+* Vural Yurt successfully defended his Msc thesis, congratulations!
+
+## February 2026
+* New preprint, led by PhD student Dimitris Karapliafis, the results of a collaborative effort started at [RdRp summit](https://rdrp.io/): [RdRpCATCH: A unified resource for RNA virus discovery using viral RNA-dependent RNA polymerase profile Hidden Markov models](https://www.biorxiv.org/content/10.64898/2026.02.05.703936v1)
+
+## January 2026
+* New preprint by Nina Baeuerle on the results of her research visit in September: [Phylogenetic support of pebS as a phage-exclusive auxiliary metabolic gene](https://www.biorxiv.org/content/10.64898/2026.01.23.701310v1)
+* New preprint led by PhD student Chen Chen: [Identification and Classification of Expressed Orphan Genes, Spurious Orphan Genes, and Conserved Genes in the Human Gut Microbiome](https://www.biorxiv.org/content/10.64898/2026.01.16.699869v1)
+
+## December 2025
+* New paper accepted: [Machine learning can distinguish orphans that have resulted from sequence divergence beyond recognition](https://academic.oup.com/bioinformaticsadvances/article/6/1/vbaf324/8405645)
+* New preprint, led by PhD student Thomas de Bruijn: [Microdiversity is higher in temperate than in virulent bacteriophages from soil environments](https://www.biorxiv.org/content/10.64898/2025.12.19.695463v1)
+* Tomer Sardjoe successfully defended his Msc thesis, congratulations!
+
 ## November 2025
 * Congratulations to Dr. Jun Liu, the first graduated PhD student from my group at WUR!
 
@@ -18,6 +36,12 @@ Viruses are central players in microbial communities and viruses also have a maj
 * New Msc thesis students are starting:
 * Mate Zoltai will analyze sequencing data to study small RNA-based communication in virus-vector-plant interactions. This is a collaboration with with [Emilyn Matsumura](https://www.wur.nl/en/persons/emilyn-matsumura.htm), Laboratory of Virology WUR
 * Vural Yurt will study prophage evolution in the Salmonella pangenome
+
+## August 2025
+* new preprint by Lakhan Pardeshi and colleagues at WUR: [The evolutionary tale of tailocins in Pectobacterium show genus-wide homologous recombination and inversions of tail fiber genes](https://www.biorxiv.org/content/10.1101/2025.07.30.667677v1)
+
+## July 2025
+* Paper accepted! [Insights into diversity, host range, and evolution of iflaviruses in Lepidoptera through transcriptome mining](https://academic.oup.com/ve/article/11/1/veaf051/8190061)
 
 ## June 2025
 
