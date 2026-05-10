@@ -9,10 +9,14 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 # News
 
+## May 2026
+* Ludovica Piccioli starts her Msc thesis on genome reconstruction of RNA viruses, co-supervised by PhD student Laura Patiño Medina. Welcome Ludovica!
+
 ## April 2026
 * Mate Zoltai successfully defended his Msc thesis, congratulations!
 
 ## March 2026
+* Jingming wang starts his Msc thesis on Auxiliary metabolic genes in phages from lifestock microbiomes, co-supervised by Jun Liu at CAAS. Welcome Jingming!
 * Vural Yurt successfully defended his Msc thesis, congratulations!
 
 ## February 2026
