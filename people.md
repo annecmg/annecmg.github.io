@@ -41,12 +41,6 @@ Profile at [WUR](https://www.wur.nl/nl/Personen/Joliese-JW-Joliese-Teunissen-MSc
 
 Profile at [WUR](https://www.wur.nl/en/persons/dimitris-d-dimitris-karapliafis.htm)
 
-## Chen Chen
-
-co-supervision with [Dick de Ridder](https://www.wur.nl/nl/personen/dick-de-ridder-1.htm)
-
-> Deep learning approaches for evolutionary origins of species-specific prokaryotic genes 
-
 ## Laura Patiño Medina
 
 co-supervision with [Astrid Bryon](https://www.wur.nl/nl/personen/astrid-bryon.htm), Laboratory of Virology WUR
@@ -61,25 +55,33 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 
 # Master students
 
-## Tomer Sardjoe
+## Jingming Wang
 
-> Phylogenetic and machine learning approaches for the estimation of gene co-occurrences in bacterial pangenomes
+co-supervision with Jun Liu, CAAS
 
-## Mate Zoltai
+> Auxiliary metabolic genes in phages from lifestock microbiomes
 
-co-supervision with [Emilyn Matsumura](https://www.wur.nl/en/persons/emilyn-matsumura.htm), Laboratory of Virology WUR
+## Ludovica Piccioli
 
-> Small RNA-based communication in virus-vector-plant interactions
-
-## Vural Yurt
-
-> Prophage evolution in the Salmonella pangenome
+> Genome assembly of RNA viruses
 
 # Bachelor students
 
 * * * * *
 
 # Former Members
+
+**Chen Chen**
+> PhD student 2024-2026
+
+**Mate Zoltai**
+> Msc student 2025-2026
+
+**Vural Yurt**
+> Msc student 2025-2026
+
+**Tomer Sardjoe**
+> Msc student 2025
 
 **Jun Liu**
 > Phd student 2021-2025
