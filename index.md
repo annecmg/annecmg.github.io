@@ -9,14 +9,23 @@ Viruses are central players in microbial communities and viruses also have a maj
 
 # News
 
+## September 2026
+* Baukje Osinga starts her Msc thesis on detecting biosynthetic gene clusters involved in phage defense, co-supervised with Marnix Medema. Welcome Baukje!
+* Paper by Chen Chen is published! [Identification and Classification of Expressed Orphan Genes, Spurious Orphan Genes, and Conserved Genes in the Human Gut Microbiome](https://academic.oup.com/gbe/article/18/9/evag211/8769284)
+* Paper by PhD student Thomas de Bruijn is published! [Temperate versus virulent phage lifestyle impacts microdiversity in soil environments](https://academic.oup.com/ismecommun/article/6/1/ycag265/8812355)
+
+## July
+* Paper on RdRpCATCH is published! [RdRpCATCH: a unified resource for RNA virus discovery using viral RNA-dependent RNA polymerase profile Hidden Markov models](https://academic.oup.com/nargab/article/8/3/lqag076/8729038)
+
 ## May 2026
 * Ludovica Piccioli starts her Msc thesis on genome reconstruction of RNA viruses, co-supervised by PhD student Laura Patiño Medina. Welcome Ludovica!
 
 ## April 2026
 * Mate Zoltai successfully defended his Msc thesis, congratulations!
+* Paper by Nina Baeuerle on the results of her research visit last September are published! [Phylogenetic support of pebS as a phage-exclusive auxiliary metabolic gene](https://academic.oup.com/femsle/article/doi/10.1093/femsle/fnag053/8664854)
 
 ## March 2026
-* Jingming wang starts his Msc thesis on Auxiliary metabolic genes in phages from lifestock microbiomes, co-supervised by Jun Liu at CAAS. Welcome Jingming!
+* Jingming Wang starts his Msc thesis on Auxiliary metabolic genes in phages from lifestock microbiomes, co-supervised by Jun Liu at CAAS. Welcome Jingming!
 * Vural Yurt successfully defended his Msc thesis, congratulations!
 
 ## February 2026
