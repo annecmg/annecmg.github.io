@@ -15,6 +15,7 @@ Viruses are central players in microbial communities and viruses also have a maj
 * Paper by PhD student Thomas de Bruijn is published! [Temperate versus virulent phage lifestyle impacts microdiversity in soil environments](https://academic.oup.com/ismecommun/article/6/1/ycag265/8812355)
 
 ## July
+* Thijmen van der Loop is starting his PhD in co-supervision with [René Dirks](https://www.wur.nl/nl/personen/dr-ram-rene-dirks), [Daniel Probst](https://www.wur.nl/nl/personen/d-daniel-probst), and [Dick de Ridder](https://www.wur.nl/nl/personen/profdrir-d-dick-de-ridder). Welcome!
 * Paper on RdRpCATCH is published! [RdRpCATCH: a unified resource for RNA virus discovery using viral RNA-dependent RNA polymerase profile Hidden Markov models](https://academic.oup.com/nargab/article/8/3/lqag076/8729038)
 
 ## May 2026
