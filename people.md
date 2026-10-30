@@ -53,6 +53,12 @@ co-supervision with [Hilje Doekes](https://www.wur.nl/nl/personen/hilje-doekes.h
 
 > Modeling diversity in bacteriophages
 
+## Thijmen van der Loop
+
+co-supervision with [René Dirks](https://www.wur.nl/nl/personen/dr-ram-rene-dirks), [Daniel Probst](https://www.wur.nl/nl/personen/d-daniel-probst), and [Dick de Ridder](https://www.wur.nl/nl/personen/profdrir-d-dick-de-ridder)
+
+> Function prediction in bacteria
+
 # Master students
 
 ## Jingming Wang
@@ -64,6 +70,12 @@ co-supervision with Jun Liu, CAAS
 ## Ludovica Piccioli
 
 > Genome assembly of RNA viruses
+
+## Baukje Osinga
+
+co-supervision with [Marnix Medema](https://www.wur.nl/en/persons/profdr-mh-marnix-medema)
+
+> Detection of biosynthetic gene clusters involved in phage defense
 
 # Bachelor students
 
@@ -122,7 +134,7 @@ co-supervision with Jun Liu, CAAS
 **Nikolaos Vakirlis**
 > Associated postdoc 2021-2022
 
-> Now at [BSRC Alexander Fleming](https://www.fleming.gr/)
+> Now at [Hellenic Pasteur Institute](https://www.pasteur.gr/en/evolutionary-genomics-group)
 
 **Amanda van de Ligt**
 > Msc thesis student 2021-2022
@@ -136,5 +148,5 @@ co-supervision with Jun Liu, CAAS
 **Matthijs Pon**
 > Msc thesis student 2021
 
-**Claudia de Buck**
+**[Claudia de Buck](https://www.linkedin.com/in/claudia-de-buck-081168256/)**
 > Msc thesis student 2021
