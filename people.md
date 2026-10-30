@@ -83,55 +83,55 @@ co-supervision with [Marnix Medema](https://www.wur.nl/en/persons/profdr-mh-marn
 
 # Former Members
 
-**Chen Chen**
+**[Chen Chen](https://www.linkedin.com/in/chenchen0109/)**
 > PhD student 2024-2026
 
-**Mate Zoltai**
+**[Mate Zoltai](https://www.linkedin.com/in/m%C3%A1t%C3%A9-zoltai-825ba8265/)**
 > Msc student 2025-2026
 
-**Vural Yurt**
+**[Vural Yurt](https://www.linkedin.com/in/vural-yurt-919a641a2/)**
 > Msc student 2025-2026
 
-**Tomer Sardjoe**
+**[Tomer Sardjoe](https://www.linkedin.com/in/tomersardjoe/)**
 > Msc student 2025
 
-**Jun Liu**
+**[Jun Liu](https://www.researchgate.net/profile/Jun-Liu-290)**
 > Phd student 2021-2025
 
-**Emma Nabuurs**
+**[Emma Nabuurs](https://www.linkedin.com/in/emma-nabuurs-95b62041b/)**
 > Bsc thesis student 2025
 
-**Liz Villabona Arenas**
+**[Liz Villabona Arenas](https://www.linkedin.com/in/liz-stephany-villabona-arenas/)**
 > Msc thesis student 2024-2025
 
-**Felipe Perez Martinez**
+**[Felipe Perez Martinez](https://www.linkedin.com/in/felipe-perez-martinez-263a94206/)**
 > Msc thesis student 2023-2024
 
-**Inge van Vugt**
+**[Inge van Vugt](https://www.linkedin.com/in/inge-van-vugt/)**
 > Msc thesis student 2023-2024
 
-**Laurens Klinkien**
+**[Laurens Klinkien](https://www.linkedin.com/in/laurens-klinkien-2a87981b3/)**
 > Msc thesis student 2023
 
-**Devin van Valkengoed**
+**[Devin van Valkengoed](https://www.linkedin.com/in/devinvanvalkengoed/)**
 > Msc thesis student and research assistant 2022-2023
 
-**Gian Passania**
+**[Gian Passania](https://www.linkedin.com/in/gian-passania-0886a412b/)**
 > Msc thesis student 2023
 
-**Joran Schoorlemmer**
+**[Joran Schoorlemmer](https://www.linkedin.com/in/joran-schoorlemmer/)**
 > Msc thesis student 2022-2023
 
-**Elma van Wieren**
+**[Elma van Wieren](https://www.linkedin.com/in/elma-van-wieren-staring-2837b420b/)**
 > Msc thesis student 2022-2023
 
-**Jori de Leuw**
+**[Jori de Leuw](https://www.linkedin.com/in/jori-de-leuw-645176188/)**
 > Msc thesis student 2022-2023
 
-**Nikolai Matviiets**
+**[Nikolai Matviiets](https://www.linkedin.com/in/mykola-matviiets-688077b6/)**
 > Msc thesis student 2022-2023
 
-**Nikolaos Vakirlis**
+**[Nikolaos Vakirlis](https://www.linkedin.com/in/nikolaos-vakirlis/)**
 > Associated postdoc 2021-2022
 
 > Now at [Hellenic Pasteur Institute](https://www.pasteur.gr/en/evolutionary-genomics-group)
@@ -142,10 +142,10 @@ co-supervision with [Marnix Medema](https://www.wur.nl/en/persons/profdr-mh-marn
 **Jan Baijens**
 > Research assistant 2021-2022
 
-**Matthijs Kon**
+**[Matthijs Kon](https://www.linkedin.com/in/matthijskon/)**
 > Msc thesis student 2021-2022
 
-**Matthijs Pon**
+**[Matthijs Pon](https://www.linkedin.com/in/matthijs-pon-0bb6b6161/)**
 > Msc thesis student 2021
 
 **[Claudia de Buck](https://www.linkedin.com/in/claudia-de-buck-081168256/)**
